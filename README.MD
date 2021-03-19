@@ -5,4 +5,7 @@ https://www.youtube.com/watch?v=AJBmIaUneB0&list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUB
 All creadit goes to him and his team. I have no intent of profiting of this materaial, just trying
 to learn computer microarchitecture
 
+The Verilog Source files can be found under:
+/David.srcs/sources_1/
+
 /David Törnqvist
